@@ -1,1 +1,19 @@
-{ }
+{
+  "columns" : {
+    "_id" : "wm-columns-wm.Variable-1521018291447",
+    "name" : "columns",
+    "owner" : "Page",
+    "category" : "wm.Variable",
+    "dataBinding" : [ ],
+    "dataSet" : [ {
+      "name" : "username",
+      "title" : "Name"
+    }, {
+      "name" : "role",
+      "title" : "Role"
+    } ],
+    "type" : "string",
+    "isList" : true,
+    "saveInPhonegap" : false
+  }
+}
